@@ -26,9 +26,15 @@ Here are screenshots of the app in action:
 
 
 
-## 🎥 Demonstration Video
+##  Demonstration Video
 Below is the link to our the full demonstration app video:  
 👉 [Contour App Expense Tracker – Demonstration Video (Part2 POE Submission)](https://www.youtube.com/watch?v=10BxFu65m_8)
+
+##  Video Creation Tools
+The demonstration video was created using:
+- **OBS Studio** – screen recording and narration capture.
+- **Microsoft Clipchamp** – video editing, background audio integration, and final export.
+
 
 ##  APK Build
 The compiled APK file is included in the repository for testing.  
@@ -37,17 +43,17 @@ To install:
 2. Transfer it to your Android device.
 3. Open and install manually.
 
-## 👥 Team Members
+##  Team Members
 - **Lavelle Dalman** – Development  
 - **Timothy Ofentse Moremi** – Development  
 - **Ivant Wambo** – Development  
 - **Eden Gwenda** – Presentation, narration, and demonstration video production  
 
-## 🧑‍💻 Module Information
+##  Module Information
 **Module:** OPSC6311 – Open Source Coding  
 
 
-## 📝 Submission Notes
+## Submission Notes
 - Source code and README hosted on GitHub (no ZIPs).  
 - Screenshots included in README.  
 - Video uploaded to YouTube and linked above.  
