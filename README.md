@@ -42,6 +42,7 @@ To install:
 1. Download the APK from the repo.
 2. Transfer it to your Android device.
 3. Open and install manually.
+4. https://github.com/42seconds/Contour/raw/main/app-debug.apk 
 
 ##  Team Members
 - **Lavelle Dalman** – Development  
