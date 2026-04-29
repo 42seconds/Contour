@@ -14,6 +14,39 @@ Data is stored locally using **RoomDB** for offline access.
 - Local data storage with RoomDB
 - Automated build and testing via GitHub Actions
 
+## 🧱 Tech Stack
+
+| Component | Description |
+|------------|-------------|
+| **Language** | Kotlin |
+| **Architecture** | MVVM (Model–View–ViewModel) |
+| **Database** | Room |
+| **UI** | XML Layouts + ViewBinding |
+| **Async Tasks** | Coroutines (with `viewModelScope`) |
+| **Libraries** | AndroidX Lifecycle, Room, Material Components |
+
+
+## 🗂️ Project Structure
+
+app/
+├── data/
+│ ├── model/ → Expense.kt
+│ ├── dao/ → ExpenseDao.kt
+│ └── database/ → ExpenseDatabase.kt
+│
+├── repository/ → ExpenseRepository.kt
+│
+├── ui/
+│ ├── adapter/ → ExpenseAdapter.kt
+│ ├── viewmodel/ → ExpenseViewModel.kt
+│ └── view/ → MainActivity.kt
+│
+└── utils/ (optional)
+
+yaml
+Copy code
+
+
 ## 🖼️ Screenshots
 Here are screenshots of the app in action:
 
@@ -44,6 +77,7 @@ To install:
 3. Open and install manually.
 4. https://github.com/42seconds/Contour/raw/main/app-debug.apk 
 
+
 ##  Team Members
 - **Lavelle Dalman** – Development  
 - **Timothy Ofentse Moremi** – Development  
@@ -52,7 +86,6 @@ To install:
 
 ##  Module Information
 **Module:** OPSC6311 – Open Source Coding  
-
 
 ## Submission Notes
 - Source code and README hosted on GitHub (no ZIPs).  
